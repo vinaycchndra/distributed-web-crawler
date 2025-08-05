@@ -1,4 +1,2 @@
 .env
-distributed-web-crawler
-vendor
-.vscode
+go.sum
